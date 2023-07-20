@@ -1,0 +1,333 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"de",
+				"deviasi"
+			],
+			[
+				"nilai",
+				"nilai_kritis"
+			],
+			[
+				"pop",
+				"pop_stddev"
+			],
+			[
+				"mat",
+				"Matematika"
+			],
+			[
+				"p",
+				"Program"
+			],
+			[
+				"uj",
+				"uji_t_satu_populasi"
+			],
+			[
+				"uk",
+				"uk_s"
+			],
+			[
+				"MK",
+				"MK_fav"
+			],
+			[
+				"Fa",
+				"Favorit"
+			],
+			[
+				"nama",
+				"nNama"
+			],
+			[
+				"mk",
+				"MK_fav"
+			],
+			[
+				"Mk",
+				"MK_fav"
+			],
+			[
+				"key",
+				"key"
+			],
+			[
+				"M",
+				"MK_fav"
+			],
+			[
+				"je",
+				"jenis_baru"
+			],
+			[
+				"i",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"prodi",
+				"prodi_baru"
+			],
+			[
+				"pri",
+				"prodi_baru"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/project akhir/INVENTARISASI BARANG.py",
+		"/D/CODING/cba.py",
+		"/D/CODING/TUGAS AKHIR PEMLAT.py",
+		"/D/project akhir/app.py",
+		"/D/salon-booking-system/js/admin/adminAttendantEdit.js",
+		"/D/salon-booking-system/js/admin/adminServiceEdit.js",
+		"/D/salon-booking-system/js/admin/adminSettingsNavigation.js",
+		"/D/salon-booking-system/js/admin/customBookingUser.js",
+		"/D/salon-booking-system/js/admin/customCalendar.js",
+		"/D/salon-booking-system/js/admin/customColors.js",
+		"/D/CODING/micro_project.py",
+		"/D/DIGIBOOK 2.0/app.html",
+		"/D/salon-booking-system/css/admin.css",
+		"/D/salon-booking-system/css/admin-disable-delete-permanently.css",
+		"/D/salon-booking-system/css/admin--google-icon.css",
+		"/D/salon-booking-system/css/admin-rtl.css",
+		"/D/salon-booking-system/css/admin--salon-icon.css",
+		"/D/salon-booking-system/css/animate.css",
+		"/D/salon-booking-system/css/bootstrap.css",
+		"/D/salon-booking-system/css/bootstrap-rtl.css",
+		"/D/salon-booking-system/css/calendar.css",
+		"/D/salon-booking-system/css/calendar--google-icon.css",
+		"/D/salon-booking-system/css/calendar-rtl.css",
+		"/D/salon-booking-system/css/calendar--salon-icon.css",
+		"/D/salon-booking-system/css/cancel-booking.css",
+		"/D/salon-booking-system/css/cancel-booking-rtl.css",
+		"/D/salon-booking-system/css/datepicker_admin.css",
+		"/D/salon-booking-system/css/datepicker_admin-rtl.css",
+		"/D/salon-booking-system/css/salon.css",
+		"/D/salon-booking-system/css/salon--google-icon.css",
+		"/D/salon-booking-system/css/salon-old.css",
+		"/D/salon-booking-system/css/salon-old-rtl.css",
+		"/D/salon-booking-system/css/salon-rtl.css",
+		"/D/salon-booking-system/css/salon--salon-icon.css",
+		"/D/salon-booking-system/css/select2.min.css",
+		"/D/salon-booking-system/css/select2.min-rtl.css",
+		"/D/salon-booking-system/css/settings-mixins.css",
+		"/D/salon-booking-system/css/settings-mixins-old.css",
+		"/D/salon-booking-system/css/settings-mixins-old-rtl.css",
+		"/D/salon-booking-system/css/settings-mixins-rtl.css",
+		"/D/salon-booking-system/css/sln-bootstrap.css",
+		"/D/salon-booking-system/css/sln-bootstrap-rtl.css",
+		"/D/salon-booking-system/css/sln-colors--custom.css",
+		"/D/salon-booking-system/css/welcome.css",
+		"/D/salon-booking-system/css/welcome-rtl.css",
+		"/D/tgs/PROGRAM SRI.py",
+		"/D/DIGIBOOK 2.0/1.py",
+		"/D/newpro.py",
+		"/D/DIGIBOOK 2.0/secure.html",
+		"/D/DIGIBOOK 2.0/DIGIBOOK.html",
+		"/D/Labella/fungtion.py",
+		"/D/try.js",
+		"/D/pengguna.py",
+		"/D/Inventory.py",
+		"/D/s2.py",
+		"/D/CODING/init.py",
+		"/D/CODING/TUGAS AKHIR.py",
+		"/D/tgs/import datetime",
+		"/D/Labella/templates/index.html",
+		"/D/Labella/templates/pendaftaran.html",
+		"/D/Labella/templates/konfirmasi.html",
+		"/D/CODING/pertemuan12.py",
+		"/D/Labella/admin makassar.html",
+		"/D/Labella/admin jakarta.html",
+		"/D/Labella/style.css",
+		"/D/Labella/peringatan.html",
+		"/D/Labella/konfirmasi.html",
+		"/D/Labella/pendaftaran.html",
+		"/D/Labella/index.html",
+		"/D/CODING/test.py",
+		"/D/CODING/mini.py",
+		"/D/CODING/pertemuan 2-4.py",
+		"/D/CODING/while continue.py",
+		"/D/CODING/while break.py",
+		"/D/CODING/whilee.py",
+		"/D/CODING/TUGAS 1.py",
+		"/D/CODING/TUGAS 2.py",
+		"/C/Users/LENOVO/Downloads/TUGAS 3.py",
+		"/D/CODING/value.py",
+		"/D/CODING/TUGAS 5.py",
+		"/D/CODING/iseng.py",
+		"/C/Users/LENOVO/Downloads/TUGAS 4.py",
+		"/D/CODING/p. 2-6.py",
+		"/D/CODING/faktorial.py",
+		"/D/CODING/!pip install yfinance.py",
+		"/D/CODING/TUGASSS!!!!.py",
+		"/D/CODING/WawasanTeknologi.py",
+		"/D/CODING/DIGI_BOOK.html",
+		"/D/CODING/tugas dic.py",
+		"/D/CODING/sampel.py",
+		"/D/CODING/while dan inputan.py",
+		"/D/CODING/tugas tambahan.py",
+		"/D/CODING/IN_R_LR.py",
+		"/D/CODING/UTS1.py",
+		"/D/CODING/UTS.py",
+		"/C/Users/LENOVO/Downloads/tes.py",
+		"/D/CODING/fibo.py"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "salon.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 258.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
